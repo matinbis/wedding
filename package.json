@@ -1,6 +1,7 @@
 {
   "name": "wedding",
   "private": true,
+  "homepage": "https://matinbis.github.io/wedding/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
